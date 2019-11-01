@@ -1,5 +1,5 @@
 = Teamdokumentation
-Timm Hauschild, Manuel Bittlingmeier <s78923@htw-dresden.de>, Jenny Phan <s77176@htw-dresden.de>
+Timm Hauschild <timm.hauschild@htw-dresden.de>, Jenny Phan <s77176@htw-dresden.de>, Manuel Bittlingmeier <s78923@htw-dresden.de>
 0.1, 01.09.2019
 :toc:
 :toc-title: Inhaltsverzeichnis
@@ -12,7 +12,6 @@ praktische Üben von AsciiDoc und Teamarbeit.
 include::Teammitglieder.adoc[]
 include::Software.adoc[]
 
-=======
 == Teammitglieder und Rollen
 
 .Teammitglieder und Rollen
