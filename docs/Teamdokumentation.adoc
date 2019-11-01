@@ -1,5 +1,6 @@
 = Teamdokumentation
-Timm Hauschild 
+Timm Hauschild <timm.hauschild@htw-dresden.de>
+
 0.1, 01.09.2019
 :toc:
 :toc-title: Inhaltsverzeichnis
@@ -8,3 +9,6 @@ Timm Hauschild
 == Einführung
 Dieses Dokument dient im Praktikum als Spielwiese für das Kennenlernen und 
 praktische Üben von AsciiDoc und Teamarbeit.
+
+include::Teammitglieder.adoc[]
+include::Software.adoc[]
