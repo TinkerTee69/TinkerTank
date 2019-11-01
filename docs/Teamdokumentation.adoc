@@ -1,6 +1,5 @@
 = Teamdokumentation
-Timm Hauschild <timm.hauschild@htw-dresden.de>
-
+Timm Hauschild, Manuel Bittlingmeier <s78923@htw-dresden.de>, Jenny Phan <s77176@htw-dresden.de>
 0.1, 01.09.2019
 :toc:
 :toc-title: Inhaltsverzeichnis
