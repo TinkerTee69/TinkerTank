@@ -12,3 +12,20 @@ praktische Üben von AsciiDoc und Teamarbeit.
 
 include::Teammitglieder.adoc[]
 include::Software.adoc[]
+
+=======
+== Teammitglieder und Rollen
+
+.Teammitglieder und Rollen
+|===
+|Rolle |Name des Teammitglieds
+
+|Person A
+|Timm Hauschild
+
+|Person B
+|Thuy Linh Jenny Phan
+
+|Person C
+|Manuel Bittlingmeier
+|===

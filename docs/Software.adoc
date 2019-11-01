@@ -1,1 +1,9 @@
 == Software
+Visual Studio Code
+https://code.visualstudio.com/
+
+GitHub:
+https://github.com/TinkerTee69/TinkerTank
+
+GitBash
+https://gitforwindows.org/
