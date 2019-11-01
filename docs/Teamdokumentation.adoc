@@ -24,4 +24,3 @@ praktische Üben von AsciiDoc und Teamarbeit.
 |Person C
 |Manuel Bittlingmeier
 |===
-
