@@ -1,5 +1,5 @@
 = Teamdokumentation
-Timm Hauschild 
+Timm Hauschild, Jenny Phan <s77176@htw-dresden.de>
 0.1, 01.09.2019
 :toc:
 :toc-title: Inhaltsverzeichnis
